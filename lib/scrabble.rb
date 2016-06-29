@@ -22,6 +22,5 @@ class String
       end
     end
     return score
-    puts "score: " + score
   end
 end
